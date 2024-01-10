@@ -24,13 +24,12 @@ We are thrilled to be welcoming participants from veterinary and public health i
 
 ### Facilitators:
 
-* Kirstyn Brunker <img  src="https://github.com/RAGE-toolkit/RAGE-workshop/assets/10990340/a8f4f246-e333-4847-a5e8-9976152093ff" width="21px"/>   
-* Grace Kia <img  src="https://github.com/RAGE-toolkit/RAGE-workshop/assets/" width="21px"/>   
-* Criselda Bautista <img  src="https://github.com/RAGE-toolkit/RAGE-workshop/assets/10990340/a8f4f246-e333-4847-a5e8-9976152093ff" width="21px"/>  
-* Kathryn Campbell <img  src="https://github.com/RAGE-toolkit/RAGE-workshop/assets/10990340/a8f4f246-e333-4847-a5e8-9976152093ff" width="21px"/>  
-* Sandeep Kasaragod <img  src="https://github.com/RAGE-toolkit/RAGE-workshop/assets/" width="21px"/>   
-* Martha Luka <img  src="[https://github.com/RAGE-toolkit/RAGE-workshop/assets/](https://github.com/RAGE-toolkit/RAGE-workshop/assets/10990340/a8f4f246-e333-4847-a5e8-9976152093ff)" width="21px"/>  
-
+* Kirstyn Brunker  
+* Grace Kia 
+* Criselda Bautista 
+* Kathryn Campbell 
+* Sandeep Kasaragod   
+* Martha Luka 
 ### Admin support:
 * Smitha Abraham
 
