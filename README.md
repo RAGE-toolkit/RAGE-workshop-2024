@@ -1,7 +1,7 @@
 <img align="right" src="icon/RAGE_train2.jpg" width=40% height=40%>
 
 # Rabies Accessible Genomic Epidemiology (RAGE) workshop  
-## Nigeria Centre for Disease Control and Prevention, ([NCDC](https://ncdc.gov.ng/)), Abuja, Nigeria  
+## Location: Nigeria Centre for Disease Control and Prevention, ([NCDC](https://ncdc.gov.ng/)), Abuja, Nigeria  
 *Monday 12th - Friday 16th June 2024*  
 The RAGE workshop is a hands-on training course on the application of genome sequencing to support enhanced canine rabies virus surveillance. In collaboration with Ahmadu Bello University and the Nigeria Centre for Disease Control and Prevention, we will host up to 20 participants from veterinary and public health institutes across Nigeria to provide introductory training in a sample-to-sequence-to-interpretation workflow for viral pathogen surveillance, including nanopore library preparation, basic data analysis and troubleshooting masterclasses. 
 
