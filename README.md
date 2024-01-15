@@ -41,7 +41,7 @@ The RAGE workshop is a hands-on training course on the application of genome seq
 | Kirstyn Brunker            | Grace Kia          | Name 3             |
 | ------------------ | ------------------ | ------------------ |
 | ![Portrait 1](![image](https://github.com/RAGE-toolkit/RAGE-workshop-2024/assets/10990340/1b8b07ca-cee9-4a72-af0c-b14fba4d5a77)
-){ width=100 } | ![Portrait 2]([url/to/portrait2](https://www.google.com/url?sa=i&url=https%3A%2F%2Fng.linkedin.com%2Fin%2Fgrace-kia-dvm-msc-phd-fcvsn-a1461327&psig=AOvVaw2LCUqQhFw91C31uCIkB5Je&ust=1705440096397000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCLDA6Myp4IMDFQAAAAAdAAAAABAD)){ width=100 } | ![Portrait 3](url/to/portrait3){ width=100 } |
+){ width=100 } | ![Portrait 2]([[url/to/portrait2](https://www.google.com/url?sa=i&url=https%3A%2F%2Fng.linkedin.com%2Fin%2Fgrace-kia-dvm-msc-phd-fcvsn-a1461327&psig=AOvVaw2LCUqQhFw91C31uCIkB5Je&ust=1705440096397000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCLDA6Myp4IMDFQAAAAAdAAAAABAD)]{ width=100 } | ![Portrait 3](url/to/portrait3){ width=100 } |
 
 * Dr Kirstyn Brunker (University of Glasgow), *Organiser*
 * Dr Grace Kia (Ahmadu Bello University Zaria), *Organiser*
