@@ -15,23 +15,23 @@ The RAGE workshop is a hands-on training course on the application of genome seq
 #### Full schedule [here](https://docs.google.com/spreadsheets/d/1JCL9Xy9NZ3_kTtE0744eJAaLKgEMXqvWHUJG7V9-ml0/edit?usp=sharing)  
 #### Quick overview:  
 *Day 1: Workshop opening*   
-Opening and Welcome remarks
-Introduction of dignataries and participants
+Opening and Welcome remarks  
+Introduction of dignataries and participants  
 Genomic surveillance seminar session  
 *Day 2: In the lab: overview and masterclasses*   
-Overview of sample-sequence-interpretation workflow
+Overview of sample-sequence-interpretation workflow  
 Lab methods masterclass sessions  
 *Day 3: In the lab: nanopore sequencing*  
-Hands on nanopore library preparation and sequencing
+Hands on nanopore library preparation and sequencing  
 Nanopore masterclass and troubleshooting  
 *Day 4: Bioinformatics*  
-Command line basics
+Command line basics  
 Nanopore data and how to apply a bioinformatic pipeline  
 Data QC  
 *Day 5: Data analysis and phylogenetics*  
-Lineage assignment
-Phylogenetic trees
-Mapping your data
+Lineage assignment  
+Phylogenetic trees  
+Mapping your data  
 
 
 ## Instructors and facilitators:  
