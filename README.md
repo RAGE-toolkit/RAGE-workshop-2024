@@ -14,24 +14,27 @@ The RAGE workshop is a hands-on training course on the application of genome seq
 ### Programme  
 #### Full schedule [here](https://docs.google.com/spreadsheets/d/1JCL9Xy9NZ3_kTtE0744eJAaLKgEMXqvWHUJG7V9-ml0/edit?usp=sharing)  
 #### Quick overview:  
-*Day 1: Workshop opening*   
-- Opening and Welcome remarks  
-- Introduction of dignataries and participants  
-- Genomic surveillance seminar session  
-*Day 2: In the lab: overview and masterclasses*   
-- Overview of sample-sequence-interpretation workflow  
-- Lab methods masterclass sessions  
-*Day 3: In the lab: nanopore sequencing*  
-- Hands on nanopore library preparation and sequencing  
-- Nanopore masterclass and troubleshooting  
-*Day 4: Bioinformatics*  
-- Command line basics  
-- Nanopore data and how to apply a bioinformatic pipeline  
-Data QC  
-*Day 5: Data analysis and phylogenetics*  
-- Lineage assignment  
-- Phylogenetic trees  
-- Mapping your data  
+| Day | Activities                                               |
+|-----|----------------------------------------------------------|
+| 1   | Workshop Opening                                       |
+|     | - Opening and Welcome Remarks                           |
+|     | - Introduction of Dignitaries and Participants          |
+|     | - Genomic Surveillance Seminar Session                   |
+| 2   | In the Lab: Overview and Masterclasses                   |
+|     | - Overview of Sample-Sequence-Interpretation Workflow    |
+|     | - Lab Methods Masterclass Sessions                       |
+| 3   | In the Lab: Nanopore Sequencing                          |
+|     | - Hands-On Nanopore Library Preparation and Sequencing   |
+|     | - Nanopore Masterclass and Troubleshooting               |
+| 4   | Bioinformatics                                          |
+|     | - Command Line Basics                                    |
+|     | - Nanopore Data and How to Apply a Bioinformatic Pipeline |
+|     | - Data QC                                                |
+| 5   | Data Analysis and Phylogenetics                          |
+|     | - Lineage Assignment                                     |
+|     | - Phylogenetic Trees                                     |
+|     | - Mapping Your Data                                      |
+ 
 
 
 ## Instructors and facilitators:  
