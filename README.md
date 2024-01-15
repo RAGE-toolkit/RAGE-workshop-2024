@@ -1,7 +1,7 @@
 <img align="right" src="icon/RAGE_train2.jpg" width=40% height=40%>
 
 # Rabies Accessible Genomic Epidemiology (RAGE) workshop  
-### *In collaboration with [Ahmadu Bello University Zaria](https://abu.edu.ng/) and the [Nigeria Centre for Disease Control and Prevention (NCDC)](https://ncdc.gov.ng/)*   
+### *University of Glasgow in collaboration with [Ahmadu Bello University Zaria](https://abu.edu.ng/) and the [Nigeria Centre for Disease Control and Prevention (NCDC)](https://ncdc.gov.ng/)*   
 ---
 **Monday 12th - Friday 16th June 2024**  
 *NCDC headquarters, Abuja, Nigeria*  
@@ -12,23 +12,22 @@ The RAGE workshop is a hands-on training course on the application of genome seq
 ---
 
 ### Programme overview:
-[Full Schedule](https://docs.google.com/spreadsheets/d/1JCL9Xy9NZ3_kTtE0744eJAaLKgEMXqvWHUJG7V9-ml0/edit?usp=sharing)
-#### Day 1: Introduction and Wet Lab
-#### Day 2: Wet lab
-#### Day 3: Bioinformatics I: An introduction
-#### Day 4: Bioinformatics II: Basic phylogenies & interpretation
-#### Day 5: Bioinformatics III: Further interpretation and visualisation
+[Full Schedule]([https://docs.google.com/spreadsheets/d/1JCL9Xy9NZ3_kTtE0744eJAaLKgEMXqvWHUJG7V9-ml0/edit?usp=sharing](https://docs.google.com/document/d/1w5mgG3cbN5JVdVJ2j8tXv_PpoxpwV6vxsqVjJyuvxkk/edit?usp=sharing))
+#### Day 1: Workshop opening
+#### Day 2: Wet laboratory masterclasses
+#### Day 3: Nanopore sequencing
+#### Day 4: Bioinformatics
+#### Day 5: Data analysis and phylogenetics
 
-### Facilitators:
-
-* Dr Kirstyn Brunker  
-* Dr Grace Kia 
+### Organisers:
+* Dr Kirstyn Brunker (University of Glasgow) and  Dr Grace Kia (Ahmadu Bello University Zaria)
+## Instructors
 * Criselda Bautista 
 * Dr Kathryn Campbell 
 * Dr Sandeep Kasaragod   
-* Martha Luka 
+* Martha Luka
 ### Admin support:
-* Smitha Abraham
+* Smitha Abraham  
 
 ### Funding
 Funding for this workshop has been provided by Medical Research Council awarded to Kirstyn Brunker.
