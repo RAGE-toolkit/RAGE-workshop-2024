@@ -12,8 +12,8 @@ The RAGE workshop is a hands-on training course on the application of genome seq
 ---
 
 ### Programme  
-[Full schedule](https://docs.google.com/spreadsheets/d/1JCL9Xy9NZ3_kTtE0744eJAaLKgEMXqvWHUJG7V9-ml0/edit?usp=sharing)  
-Quick overview:
+Full schedule [here](https://docs.google.com/spreadsheets/d/1JCL9Xy9NZ3_kTtE0744eJAaLKgEMXqvWHUJG7V9-ml0/edit?usp=sharing)  
+Quick overview:  
 #### Day 1: Workshop opening
 #### Day 2: Wet laboratory masterclasses
 #### Day 3: Nanopore sequencing
