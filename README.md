@@ -1,7 +1,7 @@
 <img align="right" src="icon/RAGE_train2.jpg" width=40% height=40%>
 
 # Rabies Accessible Genomic Epidemiology (RAGE) workshop  
-In collaboration with Ahmadu Bello University and the Nigeria Centre for Disease Control and Prevention (NCDC)  
+### In collaboration with Ahmadu Bello University and the Nigeria Centre for Disease Control and Prevention (NCDC)  
 ---
 *Monday 12th - Friday 16th June 2024*  
 **[NCDC headquarters](https://ncdc.gov.ng/), Abuja, Nigeria**  
