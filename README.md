@@ -38,10 +38,21 @@ The RAGE workshop is a hands-on training course on the application of genome seq
 
 
 ## Instructors and facilitators:  
-| Kirstyn Brunker            | Grace Kia          | Name 3             |
+| Dr Kirstyn Brunker            | Grace Kia          | Criselda Bautista             |
 | ------------------ | ------------------ | ------------------ |
 | ![Portrait 1](![image](https://github.com/RAGE-toolkit/RAGE-workshop-2024/assets/10990340/1b8b07ca-cee9-4a72-af0c-b14fba4d5a77)
-){ width=100 } | ![Portrait 2]([[url/to/portrait2](https://www.google.com/url?sa=i&url=https%3A%2F%2Fng.linkedin.com%2Fin%2Fgrace-kia-dvm-msc-phd-fcvsn-a1461327&psig=AOvVaw2LCUqQhFw91C31uCIkB5Je&ust=1705440096397000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCLDA6Myp4IMDFQAAAAAdAAAAABAD)]{ width=100 } | ![Portrait 3](url/to/portrait3){ width=100 } |
+){ width=100 } | ![Portrait 2](![image](https://github.com/RAGE-toolkit/RAGE-workshop-2024/assets/10990340/d52a248c-ca17-4554-a137-2d5c07495e43)
+){ width=100 } | ![Portrait 3](![image](https://github.com/RAGE-toolkit/RAGE-workshop-2024/assets/10990340/208301b7-0f29-450f-a3d3-c03ff595fae6)
+){ width=100 } |
+<br>   | <br>
+| Dr Kathryn Campbell            | Dr Sandeep Kasaragod          | Martha Luka            |
+| ------------------ | ------------------ | ------------------ |
+| ![Portrait 4](![image](![image](https://github.com/RAGE-toolkit/RAGE-workshop-2024/assets/10990340/5682ca0d-ffec-4049-bcbe-3276cd83ef1d)
+)
+){ width=100 } | ![Portrait 5](![image](https://github.com/RAGE-toolkit/RAGE-workshop-2024/assets/10990340/fa5d2ce9-fbe4-4034-8a2f-4877f7405c29)
+)
+){ width=100 } | ![Portrait 6](![image](https://github.com/RAGE-toolkit/RAGE-workshop-2024/assets/10990340/40fe2756-a8db-4ca3-bfc0-022b61ced5eb)
+){ width=100 } |
 
 * Dr Kirstyn Brunker (University of Glasgow), *Organiser*
 * Dr Grace Kia (Ahmadu Bello University Zaria), *Organiser*
