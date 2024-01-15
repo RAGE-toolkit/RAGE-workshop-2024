@@ -19,15 +19,15 @@ The RAGE workshop is a hands-on training course on the application of genome seq
 #### Day 4: Bioinformatics
 #### Day 5: Data analysis and phylogenetics
 
-### Organisers:
-* Dr Kirstyn Brunker (University of Glasgow) and  Dr Grace Kia (Ahmadu Bello University Zaria)
-## Instructors
-* Criselda Bautista 
-* Dr Kathryn Campbell 
-* Dr Sandeep Kasaragod   
-* Martha Luka
-### Admin support:
-* Smitha Abraham  
+## Instructors and facilitators:  
+* Dr Kirstyn Brunker (University of Glasgow), *Organiser*
+* Dr Grace Kia (Ahmadu Bello University Zaria), *Organiser*
+* Criselda Bautista (University of Glasgow)
+* Dr Kathryn Campbell (University of Glasgow)
+* Dr Sandeep Kasaragod (University of Glasgow)
+* Martha Luka (University of Glasgow)  
+### Admin support:  
+* Smitha Abraham (University of Glasgow)
 
 ### Funding
 Funding for this workshop has been provided by Medical Research Council awarded to Kirstyn Brunker.
