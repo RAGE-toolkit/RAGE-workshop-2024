@@ -41,17 +41,17 @@ The RAGE workshop is a hands-on training course on the application of genome seq
 | Dr Kirstyn Brunker | Grace Kia          | Criselda Bautista  |
 | ------------------ | ------------------ | ------------------ |
 | ![image](https://github.com/RAGE-toolkit/RAGE-workshop-2024/assets/10990340/489d7165-0a25-43b6-82c0-faff9f328722)
-)| ![Portrait 2](![image](https://github.com/RAGE-toolkit/RAGE-workshop-2024/assets/10990340/922970c2-68f9-45e0-89c4-26eb454fbe3f)
-){ width=100 } | ![Portrait 3](![image](https://github.com/RAGE-toolkit/RAGE-workshop-2024/assets/10990340/e8768e05-c43e-412f-83c5-5f6a95837173)
-){ width=100 } |
+)| ![image](https://github.com/RAGE-toolkit/RAGE-workshop-2024/assets/10990340/922970c2-68f9-45e0-89c4-26eb454fbe3f)
+)| ![image](https://github.com/RAGE-toolkit/RAGE-workshop-2024/assets/10990340/e8768e05-c43e-412f-83c5-5f6a95837173)
+)|
 
 <br>   | <br>
 | Dr Kathryn Campbell            | Dr Sandeep Kasaragod          | Martha Luka            |
 | ------------------ | ------------------ | ------------------ |
-| ![Portrait 4](![image](![image](https://github.com/RAGE-toolkit/RAGE-workshop-2024/assets/10990340/5682ca0d-ffec-4049-bcbe-3276cd83ef1d)
-){ width=100 } | ![Portrait 5](![image](https://github.com/RAGE-toolkit/RAGE-workshop-2024/assets/10990340/fa5d2ce9-fbe4-4034-8a2f-4877f7405c29)
-){ width=100 } | ![Portrait 6](![image](https://github.com/RAGE-toolkit/RAGE-workshop-2024/assets/10990340/40fe2756-a8db-4ca3-bfc0-022b61ced5eb)
-){ width=100 } |
+| ![image](https://github.com/RAGE-toolkit/RAGE-workshop-2024/assets/10990340/5682ca0d-ffec-4049-bcbe-3276cd83ef1d)
+)| ![image](https://github.com/RAGE-toolkit/RAGE-workshop-2024/assets/10990340/fa5d2ce9-fbe4-4034-8a2f-4877f7405c29)
+)| ![image](https://github.com/RAGE-toolkit/RAGE-workshop-2024/assets/10990340/40fe2756-a8db-4ca3-bfc0-022b61ced5eb)
+)|
 
 * Dr Kirstyn Brunker (University of Glasgow), *Organiser*
 * Dr Grace Kia (Ahmadu Bello University Zaria), *Organiser*
