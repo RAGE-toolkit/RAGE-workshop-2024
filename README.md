@@ -44,7 +44,8 @@ The RAGE workshop is a hands-on training course on the application of genome seq
 )
 ){ width=100 } | ![Portrait 2](![image](https://github.com/RAGE-toolkit/RAGE-workshop-2024/assets/10990340/922970c2-68f9-45e0-89c4-26eb454fbe3f)
 )
-){ width=100 } | ![Portrait 3](![image](https://github.com/RAGE-toolkit/RAGE-workshop-2024/assets/10990340/208301b7-0f29-450f-a3d3-c03ff595fae6)
+){ width=100 } | ![Portrait 3](![image](https://github.com/RAGE-toolkit/RAGE-workshop-2024/assets/10990340/e8768e05-c43e-412f-83c5-5f6a95837173)
+)
 ){ width=100 } |
 <br>   | <br>
 | Dr Kathryn Campbell            | Dr Sandeep Kasaragod          | Martha Luka            |
