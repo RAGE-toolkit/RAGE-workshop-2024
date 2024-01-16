@@ -17,23 +17,23 @@ The RAGE workshop is a hands-on training course on the application of genome seq
 | Day | Activities                                               |
 |-----|----------------------------------------------------------|
 | 1   | Workshop Opening                                       |
-|     | - Opening and Welcome Remarks                           |
-|     | - Introduction of Dignitaries and Participants          |
-|     | - Genomic Surveillance Seminar Session                   |
+|     |<i> - Opening and Welcome Remarks</i>                           |
+|     |<i> - Introduction of Dignitaries and Participants </i>         |
+|     |<i> - Genomic Surveillance Seminar Session</i>                   |
 | 2   | In the Lab: Overview and Masterclasses                   |
-|     | - Overview of Sample-Sequence-Interpretation Workflow    |
-|     | - Lab Methods Masterclass Sessions                       |
+|     |<i> - Overview of Sample-Sequence-Interpretation Workflow</i>    |
+|     |<i> - Lab Methods Masterclass Sessions </i>                      |
 | 3   | In the Lab: Nanopore Sequencing                          |
-|     | - Hands-On Nanopore Library Preparation and Sequencing   |
-|     | - Nanopore Masterclass and Troubleshooting               |
+|     |<i> - Hands-On Nanopore Library Preparation and Sequencing  </i> |
+|     | <i>- Nanopore Masterclass and Troubleshooting  </i>             |
 | 4   | Bioinformatics                                          |
-|     | - Command Line Basics                                    |
-|     | - Nanopore Data and How to Apply a Bioinformatic Pipeline |
-|     | - Data QC                                                |
+|     |<i> - Command Line Basics  </i>                                  |
+|     |<i> - Nanopore Data and How to Apply a Bioinformatic Pipeline</i> |
+|     |<i> - Data QC </i>                                               |
 | 5   | Data Analysis and Phylogenetics                          |
-|     | - Lineage Assignment                                     |
-|     | - Phylogenetic Trees                                     |
-|     | - Mapping Your Data                                      |
+|     |<i> - Lineage Assignment </i>                                    |
+|     | <i>- Phylogenetic Trees  </i>                                   |
+|     | <i>- Mapping Your Data </i>                                     |
  
 
 
