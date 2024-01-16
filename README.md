@@ -46,14 +46,8 @@ Dr Kathryn Campbell            | Dr Sandeep Kasaragod          | Martha Luka    
 | ------------------ | ------------------ | ------------------ |
 | ![image](https://github.com/RAGE-toolkit/RAGE-workshop-2024/assets/10990340/5682ca0d-ffec-4049-bcbe-3276cd83ef1d)| ![image](https://github.com/RAGE-toolkit/RAGE-workshop-2024/assets/10990340/fa5d2ce9-fbe4-4034-8a2f-4877f7405c29)| ![image](https://github.com/RAGE-toolkit/RAGE-workshop-2024/assets/10990340/40fe2756-a8db-4ca3-bfc0-022b61ced5eb)|
 
-* Dr Kirstyn Brunker (University of Glasgow), *Organiser*
-* Dr Grace Kia (Ahmadu Bello University Zaria), *Organiser*
-* Criselda Bautista (University of Glasgow)
-* Dr Kathryn Campbell (University of Glasgow)
-* Dr Sandeep Kasaragod (University of Glasgow)
-* Martha Luka (University of Glasgow)  
 ### Admin support:  
 * Smitha Abraham (University of Glasgow)
 
 ### Funding
-Funding for this workshop has been provided by Medical Research Council awarded to Kirstyn Brunker.
+Funding for this workshop has been provided by Medical Research Council awarded to Dr Kirstyn Brunker.
