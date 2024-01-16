@@ -39,7 +39,7 @@ The RAGE workshop is a hands-on training course on the application of genome seq
 
 
 ## Instructors and facilitators:  
-| Dr Kirstyn Brunker<br><i>Organiser</i> | Dr Grace Kia<br><i>Organiser</i>    | Criselda Bautista  |
+| Dr Kirstyn Brunker *Organiser*| Dr Grace Kia *Organiser*    | Criselda Bautista  |
 | ------------------ | ------------------ | ------------------ |
 | ![image](https://github.com/RAGE-toolkit/RAGE-workshop-2024/assets/10990340/489d7165-0a25-43b6-82c0-faff9f328722)| ![image](https://github.com/RAGE-toolkit/RAGE-workshop-2024/assets/10990340/d7eb7a3c-8c05-4514-ad40-256f7f3d0017)| ![image](https://github.com/RAGE-toolkit/RAGE-workshop-2024/assets/10990340/e8768e05-c43e-412f-83c5-5f6a95837173)|
 
