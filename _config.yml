@@ -22,7 +22,11 @@ collections:
 navigation:
   - name: Overview
     link: ./README.html
+       sublist:
+      - name: Programme
+        link: ./###programme
   - name: Participant info
     link: ./participant_information/README.html
   - name: Workshop material
-    link: ./day5/day5_GLUE_MADDOG.md
+    link: ./day5/day5_GLUE_MADDOG.html
+    
