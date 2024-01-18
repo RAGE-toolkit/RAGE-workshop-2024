@@ -21,7 +21,7 @@ collections:
     permalink: day5/
 navigation:
   - name: Overview
-    link: https://rage-toolkit.github.io/RAGE-workshop-2024/README.html
+    link: /
     sublist:
       - name: Programme
         link: ./#programme
