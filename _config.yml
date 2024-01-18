@@ -24,10 +24,10 @@ navigation:
     link: /
     sublist:
       - name: Programme
-        link: ./#programme
+        link: /#programme
       - name: Instructors and facilitators
-        link: ./#instructors-and-facilitators
+        link: /#instructors-and-facilitators
   - name: Participant info
-    link: ./participant_information/README.html
+    link: /participant_information/README.html
   - name: Workshop material
-    link: ./day5/day5_GLUE_MADDOG.html
+    link: /day5/day5_GLUE_MADDOG.html
