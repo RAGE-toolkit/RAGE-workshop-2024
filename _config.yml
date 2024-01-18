@@ -7,3 +7,7 @@ include:
   - README.md
   - participant_information/**
 theme: jekyll-theme-minimal
+collections:
+  participant_information:
+    output: true
+    permalink: participant_information/
