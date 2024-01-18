@@ -22,6 +22,4 @@ navigation:
   - name: Participant info
     link: ./participant_information/README.html
   - name: Workshop material
-      sublist:
-      - name: MADDOG
-        link: ./day5/day5_GLUE_MADDOG.html
+    link: ./day5/day5_GLUE_MADDOG.html
