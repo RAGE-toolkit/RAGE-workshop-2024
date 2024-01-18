@@ -1,4 +1,4 @@
-plugins:
+vplugins:
   - jekyll-relative-links
   - jekyll-remote-theme
 relative_links:
@@ -13,11 +13,11 @@ collections:
     output: true
     permalink: participant_information/
 navigation:
-  - name: Readme
+  - name: Overview
     link: ./README.html
     sublist:
       - name: Image
         link: ./index.html#small-image
-  - name: Another Page
-    link: ./another-page.html
+  - name: Participant info
+    link: ./participant_information/README.html
   - ...
