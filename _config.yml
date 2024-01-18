@@ -19,5 +19,5 @@ navigation:
     link: ./participant_information/README.html
   - name: Workshop material
       sublist:
-      - name: Command line
-        link: ./day3/command_line/basic_command_line.html
+      - name: MADDOG
+        link: ./day5/day5_GLUE_MADDOG.html
