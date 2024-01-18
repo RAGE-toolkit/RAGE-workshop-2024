@@ -18,6 +18,5 @@ navigation:
     link: ./README.html
       sublist:
       - name: Programme
-        link: ./
   - name: Participant info
     link: ./participant_information/README.html
