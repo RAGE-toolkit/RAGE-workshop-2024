@@ -5,7 +5,7 @@ plugins:
   - jekyll-seo-tag
   - jemoji
 title: Rabies Accessible Genomic Epidemiology (RAGE) workshop 
-description: University of Glasgow in collaboration with Ahmadu Bello University Zaria and the [Nigeria Centre for Disease Control and Prevention (NCDC)](https://ncdc.gov.ng/)   
+description: University of Glasgow in collaboration with Ahmadu Bello University Zaria and the Nigeria Centre for Disease Control and Prevention  
 logo: /icon/RAGE_train2.jpg
 email: kirstyn.brunker@glasgow.ac.uk
 color-scheme: auto
