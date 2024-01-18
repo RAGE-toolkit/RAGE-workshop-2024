@@ -25,7 +25,7 @@ navigation:
     sublist:
       - name: Programme
         link: ./#programme
-      - name: Instructors and facilitators:
+      - name: Instructors and facilitators
         link: ./#instructors-and-facilitators
   - name: Participant info
     link: ./participant_information/README.html
