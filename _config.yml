@@ -4,7 +4,7 @@ plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
   - jemoji
-title: RAGE
+title: Rabies Accessible Genomic Epidemiology (RAGE) workshop 
 logo: /icon/RAGE_train2.jpg
 email: kirstyn.brunker@glasgow.ac.uk
 color-scheme: auto
