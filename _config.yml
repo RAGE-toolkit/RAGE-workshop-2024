@@ -1,12 +1,13 @@
 plugins:
   - jekyll-relative-links
+  - jekyll-remote-theme
 relative_links:
   enabled: true
   collections: true
 include:
   - README.md
   - participant_information/**
-theme: jekyll-theme-minimal
+remote_theme: vaibhavvikas/jekyll-theme-minimalistic
 collections:
   participant_information:
     output: true
