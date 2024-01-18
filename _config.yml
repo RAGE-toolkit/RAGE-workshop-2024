@@ -15,9 +15,9 @@ collections:
 navigation:
   - name: Overview
     link: ./README.html
-    sublist:
-      - name: Image
-        link: ./index.html#small-image
   - name: Participant info
     link: ./participant_information/README.html
-  - ...
+  - name: Workshop material
+      sublist:
+      - name: Day 1
+        link: ./Day 1
