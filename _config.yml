@@ -13,17 +13,11 @@ collections:
     output: true
     permalink: participant_information/
 navigation:
-  - text: Overview
-    internal: true
-    url: .
-  - text: Participant info
-    internal: true
-    url: https://rage-toolkit.github.io/RAGE-workshop-2024/participant_information/
-sidebar:
-  - title: "Title"
-    image: "/assets/images/your-image.jpg"
-    image_alt: "image"
-    text: "Some text here."
-  - title: "Another Title"
-    text: "More text here."
-    nav: ./
+  - name: Readme
+    link: ./README.html
+    sublist:
+      - name: Image
+        link: ./index.html#small-image
+  - name: Another Page
+    link: ./another-page.html
+  - ...
