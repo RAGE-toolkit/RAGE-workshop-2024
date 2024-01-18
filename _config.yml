@@ -18,3 +18,11 @@ navigation:
   - text: Participant info
     internal: true
     url: https://rage-toolkit.github.io/RAGE-workshop-2024/participant_information/
+sidebar:
+  - title: "Title"
+    image: "/assets/images/your-image.jpg"
+    image_alt: "image"
+    text: "Some text here."
+  - title: "Another Title"
+    text: "More text here."
+    nav: ./
