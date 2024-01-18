@@ -25,4 +25,4 @@ navigation:
   - name: Participant info
     link: ./participant_information/README.html
   - name: Workshop material
-    link: ./day5/*html
+    link: ./day5/day5_GLUE_MADDOG.md
