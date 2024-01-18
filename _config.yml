@@ -12,9 +12,9 @@ collections:
     output: true
     permalink: participant_information/
 navigation:
-- text: Overview
-  internal: true
-  url: .
-- text: Participant info
-  internal: true
-  url: /participant_information/
+  - text: Overview
+    internal: true
+    url: .
+  - text: Participant info
+    internal: true
+    url: https://rage-toolkit.github.io/RAGE-workshop-2024/participant_information/
