@@ -16,8 +16,13 @@ collections:
   participant_information:
     output: true
     permalink: participant_information/
+  day5:
+    output: true
+    permalink: day5/
 navigation:
   - name: Overview
     link: ./README.html
   - name: Participant info
     link: ./participant_information/README.html
+  - name: Workshop material
+    link: ./day5/*html
