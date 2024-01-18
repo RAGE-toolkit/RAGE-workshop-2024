@@ -20,4 +20,4 @@ navigation:
   - name: Workshop material
       sublist:
       - name: Day 1
-        link: ./Day 1
+        link: ./day1/
