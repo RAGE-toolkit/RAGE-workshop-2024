@@ -11,3 +11,10 @@ collections:
   participant_information:
     output: true
     permalink: participant_information/
+navigation:
+- text: Overview
+  internal: true
+  url: ./
+- text: Participant info
+  internal: true
+  url: participant_information/
