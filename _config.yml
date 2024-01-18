@@ -14,7 +14,7 @@ collections:
 navigation:
 - text: Overview
   internal: true
-  url: ./
+  url: .
 - text: Participant info
   internal: true
-  url: participant_information/
+  url: /participant_information/
