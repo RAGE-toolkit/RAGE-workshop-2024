@@ -1,6 +1,6 @@
  
 ---
-**Monday 12th - Friday 16th June 2024**  
+**Monday 12th - Friday 16th February 2024**  
 *NCDC headquarters, Abuja, Nigeria*  
 
 The RAGE workshop is a hands-on training course on the application of genome sequencing to support enhanced canine rabies virus surveillance. This workshop will host up to 20 participants from veterinary and public health institutes across Nigeria to provide introductory training in a sample-to-sequence-to-interpretation workflow for viral pathogen surveillance, including nanopore library preparation, basic data analysis and troubleshooting masterclasses. 
