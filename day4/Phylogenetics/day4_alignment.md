@@ -19,7 +19,7 @@ Look at the following sequences:
 
 We'll be using SeaView to look at our sequences. This can be downloaded from https://doua.prabi.fr/software/seaview
 
-Download the file `sequences.fasta` from the VM in `shared-team/Phylogenetic_data/`
+Download the file `sequences.fasta` from the GitHub folder `day4/Phylogenetics/Data`
 
 Open SeaView. Click File->Open FASTA and select the fasta file you just downloaded.
 
@@ -34,11 +34,7 @@ Look at position 4946 to 4956.
 
 # Task 3
 
-Using CLIMB, open a jupyter notebook server and open the terminal.
-
-Create a new folder and copy the `sequences.fasta` from `shared-team/Phylogenetic_data/` to the new folder. 
-
-Type `conda activate conda/shared/MADDOG` to enter the conda environment we will be using.
+Create a new folder and copy the `sequences.fasta` from GitHub `day4/Phylogenetics/Data` to the new folder. 
 
 Using `cd` navigate to the new folder in the terminal. Use `ls` to check the fasta file is in the folder.
 
@@ -48,17 +44,15 @@ This opens up the manual for mafft, the alignment tool we'll be using. We'll be 
 
 Write `mafft sequences.fasta > sequences_aligned.fasta`
 
-This will take the input file (sequences.fasta) and align the sequences in it, producing an output file (sequences_aligned.fasta) with the sequences aligned. 
+This will take the input file (`sequences.fasta`) and align the sequences in it, producing an output file (`sequences_aligned.fasta`) with the sequences aligned. 
 
 It's a good idea to add _aligned in the output file name (and any other processes you may run!) to the file name like we've done here, so you don't overwrite the original file, and you can see how each file has been changed. This also makes it easier to go back a step if things don't work! 
 
 E.g. When processing file test.fasta, I may end up with test.fasta, test_outgroup.fasta and test_outgroup_aligned.fasta. Just from the file name, I can tell I added an outgroup and then aligned all the sequences in the file! 
 
-When the process is complete, download the 'sequences_aligned.fasta`
-
 # Task 4
 
-Open the downloaded `sequences_aligned.fasta` file in SeaView.
+When the process is complete, open the `sequences_aligned.fasta` file in SeaView.
 
 Scroll along to look at the sequences again. 
 
@@ -68,9 +62,5 @@ Scroll along to look at the sequences again.
 4. Scroll along the rest of sequence Z0828879. Would you use this sequence for analysis? Why/why not?
 
 It's really important to check through your sequences for any issues before starting more complex analysis! Any issues and large gappy regions can affect the analysis and give some unexpected and inaccurate results. 
-
-
-
-
 
 
