@@ -8,6 +8,7 @@
 	+ [4.2.1b.3: Model selection](#4.2.1.3-model-selection)
 	+ [4.2.1b.4: Tree building](#4.2.1.4-tree-building)
 	+ [4.2.1b.5: Tree visualisation](#4.2.1.5-tree-visualisation)
+	+ [4.2.1b.6: FastTree](#4.2.1.6-FastTree)
 
 
 # 4.2.1b: Tree building
@@ -162,8 +163,34 @@ This will remove any bootstrap values less than 90.
 
 Look at the bootstrap values on the tree now. What do they tell us?
 
+___
+
 ### Task 12
 
 Spend some time now playing about with the settings in FigTree to make an aesthetically pleasing tree! Make sure to keep it open when you're done, as we'll be going back to this.
+
+___
+
+
+## 4.2.1b.6: FastTree
+
+IQTree isn't the only tool we can use for tree building. While this dataset was quite small, and therefore ran quite quickly, datasets can quickly become more complex and take a long time! FastTree (http://www.microbesonline.org/fasttree/#Usage) is much faster, and therefore may be a good first step to assess rough tree topology. 
+
+
+### Task 13
+
+We're going to be using the same dataset. The standard usage of FastTree is `FastTree -gtr -nt alignment_file > tree_file `. This uses the GTR model. The output will be a newick tree.
+
+In the terminal, make sure you're in the folder you created that has your phylogenetic data in.
+
+Write `FastTree -gtr -nt nig-af2-seqs_aligned.fasta > nig-af2-seqs_aligned.nwk` and press enter.
+
+___
+
+### Task 14
+
+When the program has finished, open your newick tree in FigTree. Compare this to the IQTree tree. 
+
+Do they differ?
 
 
