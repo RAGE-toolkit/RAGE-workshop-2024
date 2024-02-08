@@ -22,9 +22,6 @@ The main 2 commands that we will use today are:
 1. **artic guppyplex** - combines all a samples FASTQ reads into a single file and size filters them (it can also perform a quality score check, which is not needed here as the reads are already split into pass and fail folders based on quality by guppy)
 2. **artic minion** - aligns the reads to the Wuhan-Hu-1 reference sequence, trims the amplicon primer sequences from the aligned reads, downsamples amplicons to reduce the data, and creates a consensus sequence utilising medaka for variant calling to correct for common MinION errors (such as those associated with homopolymer regions).
 
-## Log in to CLIMB
-Navigate to the [CLIMB webpage](https://jhub.climb.ac.uk/) and log in. 
-Choose to open a Jupyter Notebook Server from the menu on the left. Open a standard notebook, then a command line window.
 
 ## Notes on these instructions  
 This is not simply a copy and paste exercise! The commands you are instructed to run require some editing, e.g. to tell the pipeline where your data is. Parts of the commands with <*some text*> are highlighing sections that need your input- i.e. you need to edit the code. 
