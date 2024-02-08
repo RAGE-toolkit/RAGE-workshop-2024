@@ -12,15 +12,13 @@
 
 # 4.2.1b: Tree building
 
-In this practical we will be using Omicron SARS-CoV-2 sequences. Due to time constraints, we will be using a subset of sequences (trees can take a very long time to run if there are a lot of sequences!). A representative set of sequences from multiple countries has been selected.
-
-We will be analysing and interpreting best fitting substitution models, bootstrap values and finding the best ways to visualise trees. We will also be extracting useful metadata from sequence IDs and annotating this on to phylogenetic trees. 
+In this practical we will be analysing and interpreting best fitting substitution models, bootstrap values and finding the best ways to visualise trees. We will also be extracting useful metadata and annotating this on to phylogenetic trees. 
 
 ## 4.2.1b.1: Preparation
 
 Start by making a folder for the analysis in your home directory. Call this `YOURNAME_Phylogenetics_analysis` replacing YOURNAME with your first name (no spaces or special characters except _ please!)
 
-You'll then need to copy the fasta file `omicron_subset_countries.fasta` we'll use for this practical from the `/shared-team/Phylogenetic_data/` folder to the folder you just made. 
+You'll then need to copy the fasta file `nig-af2-seqs.fasta` we'll use for this practical from the `/day4/Phylogenetics/Data` folder to the folder you just made. 
 
 ## 4.2.1b.2: Alignment
 
@@ -31,11 +29,9 @@ Make sure you're in your `YOURNAME_Phylogenetics_analysis` directory you just ma
 ___
 
 ### Task 1
-Enter the MADDOG conda environment by writing the command `conda activate ~/shared-team/conda/2497997c.workshopkb/MADDOG` from within the shared-team folder
+Write the command `mafft nig-af2-seqs.fasta > nig-af2-seqs_aligned.fasta` 
 
-Write the command `mafft omicron_subset_countries.fasta > omicron_subset_countries_aligned.fasta` 
-
-This will create the file `omicron_subset_countries_aligned.fasta` in your folder - this contains the sequences from `omicron_subset_countries.fasta` aligned by the FFT-NS-2 algorithm.
+This will create the file `nig-af2-seqs_aligned.fasta` in your folder - this contains the sequences from `nig-af2-seqs.fasta` aligned by the FFT-NS-2 algorithm.
 
 ___
 
@@ -94,7 +90,7 @@ To start with, we'll run the modeltest without running a tree.
 ___
 
 ### Task 5
-In the terminal, type `iqtree -s omicron_subset_countries_aligned.fasta -m TESTONLY` 
+In the terminal, type `iqtree -s nig-af2-seqs_aligned.fasta -m TESTONLY` 
 
 What is the best fitting model according to corrected akaike information criteria? Make a note of this!
 
@@ -113,7 +109,7 @@ ___
 
 ### Task 7
 
-In the terminal write `iqtree -s omicron_subset_countries_aligned.fasta -m BEST_FITTING_MODEL -B 1000 -redo` replacing `BEST_FITTING_MODEL` with the model you found in your last step.
+In the terminal write `iqtree -s nig-af2-seqs_aligned.fasta -m BEST_FITTING_MODEL -B 1000 -redo` replacing `BEST_FITTING_MODEL` with the model you found in your last step.
 
 This command means we are building this tree with 1000 ultrafast bootstrap replicates. The `-redo` argument is necessary to overwrite the files made in the last step and allow this to run.
 
@@ -134,7 +130,7 @@ ___
 
 Open figtree. 
 
-Click  File → Open → select the file `omicron_subset_countries_aligned.contree` that you just downloaded.
+Click  File → Open → select the file `nig-af2-seqs_aligned.contree` that you just downloaded.
 
 When prompted, enter `bootstrap` as the label name.
 
