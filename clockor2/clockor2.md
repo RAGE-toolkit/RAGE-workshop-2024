@@ -38,12 +38,12 @@ Note the recalibrarted evolutionary rate of your tree, and the R-squared and RMS
 
 Given these values, what is the best way to root this specific tree?
 
-___
+
 
 ## Task 4 - Export
 
 You can export your tree in different formats. Rectangular, circular etc
-___
+
 
 ## Task 5 - Re-iterate with different trees of your data
 
