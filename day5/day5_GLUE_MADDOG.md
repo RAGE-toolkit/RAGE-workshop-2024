@@ -8,7 +8,7 @@ It can be accessed at: http://rabv-glue.cvr.gla.ac.uk/#/home
 
 ## Task 1
 
-Go to Climb and download the `MADDOG.fasta` file in the `~/shared-team/Phylogenetic_data/` folder. 
+Use the `nig-af2-seqs.fasta` file in the `day4/Phylogenetics/Data` folder. 
 
 Go to RABV-GLUE (http://rabv-glue.cvr.gla.ac.uk/#/home) and click Analysis -> Genotyping and Interpretation
 
@@ -26,44 +26,44 @@ When the analysis is complete, explore the 3 sections (summary, genome visualisa
 Compare the G gene of sequence 3 to the master reference.
 Hint: you'll need to press 'update' each time you change any settings!
 
-3. What is the effect of the G->A substitution in position 4? 
+3. What is the effect of the A->T substitution in position 4? 
 4. Does sequence 10 also have this substitution? 
-5. Now compare the sequences to the Asian reference instead. What happens to this substitution? What do you think this means?
-
-6. Which minor clades are most closely related to Asian SEA4?
+5. Now compare the sequences to the Africa-2 reference instead. What happens to this substitution? What do you think this means?
 
 ## Task 2
 
 In RABV-GLUE, click Sequence Data -> NCBI Sequences by Clade
 
-Select 'Asian' from the list at the top.
+Select 'Africa-2' from the list at the top.
 
-Using the 'Filters' tab, try to answer the following questions about the Asian clade sequences:
+Using the 'Filters' tab, try to answer the following questions about the Africa-2 clade sequences:
 
 1. How many sequences are there in total?
 2. How many sequences have at least 90% coverage of the whole genome? What percentage is this of all the sequences?
 3. How many sequences are from dogs (Canis familiaris)? What percentage is this of all the sequences?
-4. How many sequences are from the Philippines? 
-5. Combine all these filters to find all the whole genome dog sequences from the Philippines.
+4. How many sequences are from the Nigeria? 
+5. Combine all these filters to find all the whole genome dog sequences from the Nigeria.
 
 This is how we can find all relevant sequences to our study! If we wanted to download these, we could click Download -> Download sequences and Download -> Download metadata (we don't need to do this now).
 
-6. What is the title of the study sequence AB563791 is part of?
+6. What is the title of the study sequence KC196743 is part of?
 
 This is how GLUE also lets us find papers relevant to our dataset! 
 
 # Using MADDOG
 
-Go to climb and access the terminal. 
+Locate the MADDOG folder within the SSD/storage device provided.
+
+Access the terminal. 
 
 Navigate inside the MADDOG directory using the terminal.
 
-Enter the MADDOG conda environment using `conda activate ~/shared-team/conda/2497997c.workshopkb/MADDOG`
+Enter the MADDOG conda environment using `conda activate MADDOG`
 
 Make a new folder **in the MADDOG directory**, and name this with your first name.
 Note: There can be no spaces or special characters in this name! Hyphens and underscores are allowed
 
-Copy the `MADDOG.fasta` and `MADDOG.csv` files from `~/shared-team/Phylogenetic_data/` into this folder.
+Copy the `nig-af2-seqs.fasta` and `MADDOG.csv` files from `day4/Phylogenetics/Data` into this folder.
 
 ## Assignment
 
@@ -73,6 +73,8 @@ Ensure you're in the MADDOG folder, and the MADDOG conda environment.
 
 Type `sh assignment.sh` 
 
+It will ask you if you've pulled the repository. Type `Y` and press enter.
+
 When prompted, enter the name of the folder you just made.
 
 The sequences are now being assigned! When this is complete, you'll find a file called (FOLDER_NAME)_assignment.csv in the folder you made. Open this! 
@@ -80,8 +82,7 @@ The sequences are now being assigned! When this is complete, you'll find a file 
 1. How many lineages are present in the dataset we analysed? What is the most common lineage here?
 2. How does this compare to our analysis in RABV-GLUE?
 3. Where have these lineages been previously seen?
-4. Which sequences are most closely related to sequence 96? Could we tell this before with the information from RABV-GLUE?
-5. Checking for new lineages is appropriate if there are at least 10 sequences from the same lineage. Should we check for new lineages here?
+4. Checking for new lineages is appropriate if there are at least 10 sequences from the same lineage. Should we check for new lineages here?
 
 Now delete the _assignment.csv file. We are going to progress to lineage designation!
 
@@ -100,6 +101,6 @@ Type `sh designation.sh`
 
 When prompted, enter the name of the folder you just made.
 
-Lineage designation is now taking place! This runs a lot faster on our own laptops, off of climb, as we automatically optimise parameters. 
+Lineage designation is now taking place! 
 
-It would take too long to run on climb, so we'll stop the run by pressing ctrl + c and instead look at a run I completed earlier on this dataset in the next session.
+It would take too long to run (maybe 30 mins - 1 hour!), so we'll stop the run by pressing ctrl + c and instead look at a run I completed earlier on this dataset in the next session.

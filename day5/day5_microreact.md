@@ -14,7 +14,7 @@ If you edited the microreact to have views and different charts, you would want 
 
 Click 'run' and then click the url produced to see the microreact. 
 
-To see the modules and how the data is processed, click the pencil (edit) icon at the top.
+To see the modules and how the data is processed, you can create an account and duplicate this flow. Then click the pencil (edit) icon at the top.
 
 https://data-flo.io/run?qc4RxhAde1KBDfLVJxYcQG
 
@@ -24,3 +24,5 @@ https://data-flo.io/run?qc4RxhAde1KBDfLVJxYcQG
 Microreact is a great interactive visualisation tool. It can go down very well with presentations to stakeholders! You can add all sorts of metadata, sequence data and even trees to your visualisations. Check out this one to visualise all the sequence data from Tanzania:
 
 MicroReact: https://microreact.org/project/jFiGgHfUMHcWii782RvDsq-tanzaniatree
+
+To edit, you'll need to make an account and duplicate the project. Then you can explore and add new charts! 
