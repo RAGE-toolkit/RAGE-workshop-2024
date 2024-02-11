@@ -19,7 +19,7 @@ Look at the following sequences:
 
 We'll be using SeaView to look at our sequences. This can be downloaded from https://doua.prabi.fr/software/seaview
 
-Download the file `sequences.fasta` from the GitHub folder `day4/Phylogenetics/Data`
+Locate the file `sequences.fasta` from the folder `Home/RAGE-workshop-2024/day4/Phylogenetics/Data`
 
 Open SeaView. Click File->Open FASTA and select the fasta file you just downloaded.
 
@@ -34,9 +34,11 @@ Look at position 4946 to 4956.
 
 # Task 3
 
-Create a new folder and copy the `sequences.fasta` from GitHub `day4/Phylogenetics/Data` to the new folder. 
+Create a new folder and copy the `sequences.fasta` from  `day4/Phylogenetics/Data` to the new folder. 
 
 Using `cd` navigate to the new folder in the terminal. Use `ls` to check the fasta file is in the folder.
+
+Enter the MADDOG_backup conda environment by typing `conda activate MADDOG_backup`
 
 Type `mafft -h`
 

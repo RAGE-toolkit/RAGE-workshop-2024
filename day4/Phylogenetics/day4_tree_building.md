@@ -19,7 +19,7 @@ In this practical we will be analysing and interpreting best fitting substitutio
 
 Start by making a folder for the analysis in your home directory. Call this `YOURNAME_Phylogenetics_analysis` replacing YOURNAME with your first name (no spaces or special characters except _ please!)
 
-You'll then need to copy the fasta file `nig-af2-seqs.fasta` we'll use for this practical from the `/day4/Phylogenetics/Data` folder to the folder you just made. 
+You'll then need to copy the fasta file `nig-af2-seqs.fasta` we'll use for this practical from the `Home/RAGE-workshop-2024/day4/Phylogenetics/Data` folder to the folder you just made. 
 
 ## 4.2.1b.2: Alignment
 
@@ -30,6 +30,8 @@ Make sure you're in your `YOURNAME_Phylogenetics_analysis` directory you just ma
 ___
 
 ### Task 1
+Enter the conda environment by typing `conda activate MADDOG_backup`
+
 Write the command `mafft nig-af2-seqs.fasta > nig-af2-seqs_aligned.fasta` 
 
 This will create the file `nig-af2-seqs_aligned.fasta` in your folder - this contains the sequences from `nig-af2-seqs.fasta` aligned by the FFT-NS-2 algorithm.
@@ -69,7 +71,7 @@ ___
 
 ### Task 4
 
-In the terminal, make sure you're still in the correct directory.
+In the terminal, make sure you're still in the correct directory and the conda environment.
 
 Type: `iqtree -h` to see all the command options for IQTREE, and note any that may be useful.
 
@@ -123,13 +125,13 @@ You'll notice a lot of new files appear in your directory. The ones we're most i
 
 Now you've built a tree, it's time to visualise it. We'll be using FigTree. FigTree is designed as a graphical viewer of phylogenetic trees and as a program for producing publication-ready figures. It can be downloaded from: http://tree.bio.ed.ac.uk/software/figtree/ 
 
-You'll need to have figtree installed on your own laptop for this part of the practical. First, download the tree you just created from the VM to your laptop.
+We have installed FigTree on your SSDs. To access it you'll need to leave the MADDOG environment by typing `conda deactivate` and enter the visualization environment by typing `conda activate visualization`
 
 ___
 
 ### Task 8
 
-Open figtree. 
+Open figtree by typing `Figtree` into the terminal and pressing enter.
 
 Click  File → Open → select the file `nig-af2-seqs_aligned.contree` that you just downloaded.
 
@@ -181,7 +183,7 @@ IQTree isn't the only tool we can use for tree building. While this dataset was 
 
 We're going to be using the same dataset. The standard usage of FastTree is `FastTree -gtr -nt alignment_file > tree_file `. This uses the GTR model. The output will be a newick tree.
 
-In the terminal, make sure you're in the folder you created that has your phylogenetic data in.
+In the terminal, make sure you're in the folder you created that has your phylogenetic data in and in the visualization conda environment.
 
 Write `FastTree -gtr -nt nig-af2-seqs_aligned.fasta > nig-af2-seqs_aligned.nwk` and press enter.
 
