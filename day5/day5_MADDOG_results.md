@@ -1,14 +1,19 @@
+---
+output:
+  pdf_document: default
+  html_document: default
+---
 # MADDOG results
 
 MADDOG can take a while to run. Instead, we'll stop the run by pressing ctrl + z and use the output from an earlier run I completed on this dataset!
 
 # Task 1
 
-Go to the `day5` folder. You'll see a folder called `Nigeria`. Open this.
+Go to the `Home/RAGE-workshop-2024/day5` folder. You'll see a folder called `Nigeria`. Open this.
 
 You'll see all the new folders and files produced by the MADDOG run!
 
-Start by looking in Report/report.html
+Start by looking in `Report/report.html`
 
 This summarises all the MADDOG outputs in a html file. 
 

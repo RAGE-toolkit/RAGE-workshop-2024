@@ -1,3 +1,8 @@
+---
+output:
+  pdf_document: default
+  html_document: default
+---
 # GLUE and MADDOG
 
 # Using GLUE
@@ -8,7 +13,7 @@ It can be accessed at: http://rabv-glue.cvr.gla.ac.uk/#/home
 
 ## Task 1
 
-Use the `nig-af2-seqs.fasta` file in the `day4/Phylogenetics/Data` folder. 
+Use the `nig-af2-seqs.fasta` file in the `Home/RAGE-workshop-2024/day4/Phylogenetics/Data` folder. 
 
 Go to RABV-GLUE (http://rabv-glue.cvr.gla.ac.uk/#/home) and click Analysis -> Genotyping and Interpretation
 
@@ -52,7 +57,7 @@ This is how GLUE also lets us find papers relevant to our dataset!
 
 # Using MADDOG
 
-Locate the MADDOG folder within the SSD/storage device provided.
+Locate the MADDOG folder within the SSD/storage device provided. This should be in `Home/workshop_dir/backup/MADDOG`
 
 Access the terminal. 
 
@@ -63,7 +68,7 @@ Enter the MADDOG conda environment using `conda activate MADDOG`
 Make a new folder **in the MADDOG directory**, and name this with your first name.
 Note: There can be no spaces or special characters in this name! Hyphens and underscores are allowed
 
-Copy the `nig-af2-seqs.fasta` and `MADDOG.csv` files from `day4/Phylogenetics/Data` into this folder.
+Copy the `nig-af2-seqs.fasta` and `MADDOG.csv` files from `Home/RAGE-workshop-2024/day4/Phylogenetics/Data` into this folder.
 
 ## Assignment
 
