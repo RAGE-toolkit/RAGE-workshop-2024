@@ -14,7 +14,7 @@ Conda environment
 
 # 1 Conda environment
 
-Today we will be using [Artic_nf]((https://github.com/RAGE-toolkit/Artic-nf) bioinformatics pipeline. 
+Today we will be using [Artic_nf](https://github.com/RAGE-toolkit/Artic-nf) bioinformatics pipeline. 
 This is a pipeline and set of accompanying tools for working with viral nanopore
 sequence data, generated from tiling amplicon schemes.
 
