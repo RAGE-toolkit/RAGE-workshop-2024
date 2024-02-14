@@ -41,9 +41,9 @@ machine. Enter the command below into terminal.
 git clone --recursive https://github.com/RAGE-toolkit/Artic-nf.git
 ```
 
-A folder called Artic-nf should now be visible in the workshop_dir.
+A folder called Artic-nf should now be visible in the temp_dir.
 
-<img src="images/artic-rabv.png"/>
+<img src="images/artic_nf.png"/>
 
 # 4 Create environment
 
