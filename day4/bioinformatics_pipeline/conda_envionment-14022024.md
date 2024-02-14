@@ -14,16 +14,15 @@ Conda environment
 
 # 1 Conda environment
 
-Today we will be using a rabies virus version of the [ARTIC
-Network’s](https://artic.network/) bioinformatics pipeline. This is a
-pipeline and set of accompanying tools for working with viral nanopore
+Today we will be using [Artic_nf](https://artic.network/) bioinformatics pipeline. 
+This is a pipeline and set of accompanying tools for working with viral nanopore
 sequence data, generated from tiling amplicon schemes.
 
 This is nicely bundled up for us in a conda environment!
 
 # 2 Creating workshop directory
-Create a directory named "workshop_dir" in the home directory and 
-locate yourself to workshop_dir. 
+Create a directory named "temp_dir" in the home directory and 
+locate yourself to temp_dir. 
 
 ``` shell
 mkdir temp_dir
@@ -54,7 +53,7 @@ make our conda environment. Let’s create our environment (using conda):
 conda env create --file Artic-nf/environment.yml 
 ```
 
-conda should proceed to install the required packages for the artic-rabv
+conda should proceed to install the required packages for the artic_nf
 environment (ignore warnings/errors about libmamba).
 
 <img src="images/env-create.png"/>
