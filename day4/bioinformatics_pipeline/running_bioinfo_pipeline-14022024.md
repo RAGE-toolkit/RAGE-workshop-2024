@@ -12,7 +12,7 @@ Sandeep Kasaragod
   - <a href="">1.5 Download Artic-nf and activate the conda environment</a>
   - <a href="">1.6 Data organization</a>
   - <a href="">1.7 Running the workflow</a>
-  - <a href="">1.8 Running workflow for the current session</a>
+  - <a href="#user-content-some-heading" id="1.8 Running workflow for the current session">1.8 Running workflow for the current session</a>
   - <a href="">1.9 Tasks </a>
 
 # 1 Bioinformatic pipeline
