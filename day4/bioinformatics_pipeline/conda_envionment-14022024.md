@@ -25,6 +25,7 @@ Create a directory named "temp_dir" in the home directory and
 locate yourself to temp_dir. 
 
 ``` shell
+clrl+Alt+T
 mkdir temp_dir
 cd temp_dir
 pwd
