@@ -189,7 +189,7 @@ nextflow main.nf
 
 ## 1.8 Running workflow for the current session
 ```
-open->terminal
+open->terminal (Ctrl+Alt+T)
 cd workshop_dir/backup/Artic-nf
 conda activate artic_nf_backup
 bash command.sh
