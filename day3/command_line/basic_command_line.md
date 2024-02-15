@@ -46,23 +46,23 @@ hit the tab button, Linux will attempt to autocomplete the name for you.
 Let’s try the text below, followed by hitting the tab button once:
 
 ``` shell
-jovyan:~$ cd s
+jovyan:~$ cd D
 ```
 
 The shell has managed to autocomplete some of the name, but not all of
 it. This likely means there is not enough information to uniquely
 identify the file. This can be verified by hitting the tab button twice
-which will produce the following output:
+which will produce something like the following output:
 
 ``` shell
-jovyan:~$ cd shared-
-shared-public/ shared-team/         
+jovyan:~$ cd Do
+Documents/ Downloads/         
 ```
 
-There are two folders that start with the name “shared-” so must
+There are two folders that start with the name “Do” so must
 manually complete (at least until the text is sufficient to pinpoint the
-file i.e. in this case `shared-t`, then tab, would be enough to find
-“shared-team/”)
+file i.e. in this case `Doc`, then tab, would be enough to find
+“Documents/”)
 
 ## 1.2 1.2: Exiting a program
 
@@ -99,7 +99,7 @@ they work correctly.
 The file system of linux is organised as a hierarchy of files and
 directories(folders). The root directory is the top of the hierarchy
 with all other files and direstories in the operating system located
-below it. ![alt text](Images/filesystem.png) When you login to your
+below it.  When you login to your
 account on a linux machine, normally you will be placed into a directory
 named after your username (for example, if my username is kirstyn, my
 directory will be found at **‘/home/kirstyn’** ). This is located inside
@@ -135,9 +135,9 @@ Find your current directory using pwd.
 ## 2.2 2.2: `ls` (List)
 
 The next thing we might want to do is to have a look at what files and
-directories are in our home directory. We can do this using the `ls`
+directories are in your home directory. We can do this using the `ls`
 command, which lists the contents of the current working directory (i.e
-where the user currently is).
+where the user currently is). You should see something like below (maybe different files)
 
 ``` bash
 jovyan:~$ ls
