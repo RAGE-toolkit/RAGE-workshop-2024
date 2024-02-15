@@ -24,7 +24,9 @@ In this practical we will be analysing and interpreting best fitting substitutio
 
 Start by making a folder for the analysis in your home directory. Call this `YOURNAME_Phylogenetics_analysis` replacing YOURNAME with your first name (no spaces or special characters except _ please!)
 
-You'll then need to copy the fasta file `nig-af2-seqs.fasta` we'll use for this practical from the `Home/RAGE-workshop-2024/day4/Phylogenetics/Data` folder to the folder you just made. 
+You'll then need to copy the fasta file `nig-af2-seqs.fasta` we'll use for this practical from the `home/rage-1/workshop-dir/data/day4/Phylogenetics/Data` folder to the folder you just made. 
+
+You can do this on the command line using cp or you can just to it manually to save time! 
 
 ## 4.2.1b.2: Alignment
 

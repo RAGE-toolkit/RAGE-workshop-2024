@@ -9,7 +9,7 @@ MADDOG can take a while to run. Instead, we'll stop the run by pressing ctrl + z
 
 # Task 1
 
-Go to the `Home/RAGE-workshop-2024/day5` folder. You'll see a folder called `Nigeria`. Open this.
+Go to the `home/rage-1/workshop-dir/backup` folder. You'll see a folder called `Nigeria`. Open this.
 
 You'll see all the new folders and files produced by the MADDOG run!
 
@@ -49,7 +49,7 @@ By exploring the sunburst plot, try to answer the following questions:
 
 Although the summary is very useful, MADDOG also produces other outputs. Some of which we can use for further analsyis. 
 
-The most important of these is `day5/Nigeria/Outputs/sequence_data.csv`
+The most important of these is `/Outputs/sequence_data.csv`
 
 Open it in excel so we can sort and view the data more easily.
 
