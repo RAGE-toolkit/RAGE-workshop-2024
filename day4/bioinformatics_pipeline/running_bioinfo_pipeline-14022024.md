@@ -24,7 +24,7 @@ environment. This workflow processes the raw data (fastq) to produce the
 
 ## 1.1 Structure of Artic-nf directory
 
-Artic-nf workflow contains 6 major components
+Artic-nf workflow contains 8 major components
 - <a href="https://github.com/RAGE-toolkit/Artic-nf/blob/main/environment.yml">Evnironment setup</a>
 - <a href="https://github.com/RAGE-toolkit/Artic-nf/blob/main/main.nf">Main workflow</a>
 - <a href="https://github.com/RAGE-toolkit/Artic-nf/tree/main/meta_data">Meta_data directory</a>
