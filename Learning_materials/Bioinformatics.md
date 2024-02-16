@@ -1,4 +1,4 @@
-## Mastering linux commands
+## Mastering linux commands 
   -  [The Linux command line for beginners](https://ubuntu.com/tutorials/command-line-for-beginners#1-overview)
   -  [Linux Commands Cheat Sheet](https://www.linuxtrainingacademy.com/linux-commands-cheat-sheet/)
   -  [60 Essential Linux Commands](https://www.hostinger.co.uk/tutorials/linux-commands)
