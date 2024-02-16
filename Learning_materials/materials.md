@@ -9,3 +9,5 @@
 
 ## Bioinformatics
   -  [Bioinformatics Workbook](https://bioinformaticsworkbook.org/#gsc.tab=0)
+  -  [Introduction to Long-Read Data Analysis](https://timkahlke.github.io/LongRead_tutorials/)
+  -  [Sequencing tutorials](https://pandora.tghn.org/sequencing/sequencing-tutorials/)
