@@ -9,7 +9,7 @@ MADDOG can take a while to run. Instead, we'll stop the run by pressing ctrl + z
 
 # Task 1
 
-Go to the `home/rage-1/workshop-dir/backup` folder. You'll see a folder called `Nigeria`. Open this.
+Go to the `home/rage-1/workshop_dir/backup` folder. You'll see a folder called `Nigeria`. Open this.
 
 You'll see all the new folders and files produced by the MADDOG run!
 

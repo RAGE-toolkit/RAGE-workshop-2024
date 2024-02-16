@@ -24,7 +24,7 @@ In this practical we will be analysing and interpreting best fitting substitutio
 
 Start by making a folder for the analysis in your home directory. Call this `YOURNAME_Phylogenetics_analysis` replacing YOURNAME with your first name (no spaces or special characters except _ please!)
 
-You'll then need to copy the fasta file `nig-af2-seqs.fasta` we'll use for this practical from the `home/rage-1/workshop-dir/data/day4/Phylogenetics/Data` folder to the folder you just made. 
+You'll then need to copy the fasta file `nig-af2-seqs.fasta` we'll use for this practical from the `home/rage-1/workshop_dir/data/phylogenetic_data/Data` folder to the folder you just made. 
 
 You can do this on the command line using cp or you can just to it manually to save time! 
 
@@ -54,13 +54,7 @@ ___
 ### Task 3
 How many sequences does this fasta file contain?
 
-You can either click on the file to open it in a new window and then use ctrl + f to find the '>' character
-
-OR
-
-You can use commands!
-
-Hint: You can use `grep` to search the file, and search for the `>` character, of which each will denote a sequence, and `wc -l` to count lines. Use `|` to pipe one into the other.
+You can click on the file to open it in a new window and then use ctrl + f to find the '>' character
 
 ## 4.2.1b.3: Model selection
 
