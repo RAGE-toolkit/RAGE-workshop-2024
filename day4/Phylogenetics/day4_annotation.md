@@ -10,7 +10,7 @@ output:
 
 We can add additional information to our tree. This requires a well formatted metadata file. 
 
-We'll be using the file `nig-af2-seqs-metadata.csv`. You can find this in `home/rage-1/workshop-dir/data/day4/Phylogenetics/Data`. Where you found the sequences we used to build the tree. 
+We'll be using the file `nig-af2-seqs-metadata.csv`. You can find this in `home/rage-1/workshop_dir/data/phylogenetic_data/Data`. Where you found the sequences we used to build the tree. 
 
 We'll need to edit this a bit first to make it a format that FigTree understands! We might want to assess the year, state or host of the sequences. 
 
