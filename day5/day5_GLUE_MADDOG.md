@@ -13,7 +13,7 @@ It can be accessed at: http://rabv-glue.cvr.gla.ac.uk/#/home
 
 ## Task 1
 
-Use the `nig-af2-seqs.fasta` file in the `home/rage-1/workshop_dir/data/day4/Phylogenetics/Data` folder. The same sequences we were working with earlier to build our trees. 
+Use the `nig-af2-seqs.fasta` file in the `/home/rage_1/workshop_dir/data/day4/Phylogenetics/Data` folder. The same sequences we were working with earlier to build our trees. 
 
 Go to RABV-GLUE (http://rabv-glue.cvr.gla.ac.uk/#/home) and click Analysis -> Genotyping and Interpretation
 
