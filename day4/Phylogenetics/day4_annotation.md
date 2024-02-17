@@ -10,7 +10,7 @@ output:
 
 We can add additional information to our tree. This requires a well formatted metadata file. 
 
-We'll be using the file `nig-af2-seqs-metadata.csv`. You can find this in `day4/Phylogenetics/Data`.
+We'll be using the file `nig-af2-seqs-metadata.csv`. You can find this in `/home/rage_1/workshop_dir/data/phylogenetic_data/Data`. Where you found the sequences we used to build the tree. 
 
 We'll need to edit this a bit first to make it a format that FigTree understands! We might want to assess the year, state or host of the sequences. 
 
@@ -18,7 +18,7 @@ ___
 
 ### Task 1
 
-Open your annotations file in excel. You'll see we have 6 columns. Start by deleting the `state_code` and `sample_collection_date` columns - we won't be using those here. 
+Open your annotations file in excel. Just do this by clicking on the file in your finder window (NOT THE COMMAND LINE). You'll see we have 6 columns. Start by deleting the `state_code` and `sample_collection_date` columns - we won't be using those here. 
 
 The `sample_collection_decimal_date` column is really useful for some analysis, but for now we just want the exact year (with no decimals!). 
 

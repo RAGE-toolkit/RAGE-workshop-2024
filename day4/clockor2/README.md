@@ -1,7 +1,7 @@
 # Molecular clock tutorial  
 
 ## Description of sequence data  
-Set of simulated rabies virus whole genome sequences (n=60). They should be related to the Africa-2 clade, which has previously been found in Nigeria. The clock rate is ~4 to 5x10-4 depending which root fitting method is applied. 
+Set of simulated rabies virus whole genome sequences (n=60). They should be related to the Africa-2 clade, which has previously been found in Nigeria. The clock rate is ~3 to 5x10-4 depending which root fitting method is applied. 
 
 ## Metadata  
 The metadata is also fabricated, including simulated dates. Location data is at the state level and there should be a degree of phylogeographic clustering apparent. There are a few versions of the data:  
