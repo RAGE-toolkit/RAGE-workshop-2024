@@ -1,0 +1,23 @@
+---
+title: "Github resources"
+author: "Kirstyn Brunker"
+date: "2024-02-21"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Online practice  
+Here are some links to online tutorials or presentations that will help further your understanding of GitHub. 
+
+[Github getting started guide](https://docs.github.com/en/get-started/start-your-journey/hello-world)
+
+[Intro to Github course](https://github.com/skills/introduction-to-github?tab=readme-ov-file)    
+
+[GitHub video Tutorial - Beginner's Training Guide](https://www.youtube.com/watch?v=iv8rSLsi1xo)
+
+
+Plenty of other resources online found by googling!
+

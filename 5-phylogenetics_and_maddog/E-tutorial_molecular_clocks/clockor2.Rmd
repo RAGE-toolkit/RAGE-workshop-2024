@@ -1,0 +1,66 @@
+---
+title: "Molecular clocks"
+author: "Martha Luka"
+date: "2024-02-21"
+output:
+  pdf_document: default
+  html_document: default
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+# Using clockor2 to infer virus evolution
+
+In this practical we will be use molecular clocks to analyse viral evolution in pre-constructed trees, test the fit of a clock and explore ways to root phylogenetic trees. 
+
+## Task 1 - Preparation
+
+Navigate to the Data folder (RAGE-workshop-2024/5-phylogenetics_and_maddog/E-tutorial_molecular_clocks/Data
+) which contains a newick tree (nig-af2-seqs.nwk), fasta file (nig-af2-seqs.fasta) and the respective sequence metadata (nig-af2-seqs-metadata-clockor2.csv).
+
+On your browser, navigate to [Clockor2](https://clockor2.github.io/)
+
+
+## Task 2 - Upload files
+
+Once on https://clockor2.github.io, drag and drop the newick tree file, or click `select file` to navigate to the file on your local computer. 
+
+Upload your tree metadata file, which should be a csv file. Headers should be `tip,date,group`. The group is the variable defining the expected monophyletic groups. This could be lineage, state, host etc.  
+Note: An example file for future reference can be found [here](https://clockor2.github.io/MERS_dates.csv).  
+
+Click ` Parse csv`
+
+Visually inspect your tree and associated output
+
+## Task 3 - Analyse
+
+1. Hover over the points on the graph. Do these correlate to where you expect the taxa to be located on the tree?
+
+2. Now click on any taxa on the tree and see it highlighted on the graph. 
+
+3. Note the evolution rate of the unrooted tree, and respectiveR-squared and RMS values. 
+
+4. Root the global tree using both the R-squared and RMS values. 
+
+5. Note the recalibrated evolutionary rate of your tree, and the R-squared and RMS values. How do they compare to the unrooted values? 
+
+Given these values, what is the best way to root this specific tree?
+
+6. Now look again carefully at your clockor2 root-to-tip regression plot. Are there any sequences that look like outliers?
+
+7. Compare the metadata file with the original "raw" data (Data/nig-af2-seqs-RAW-metadata.txt). Can you see any discrepancies in the data associated with the outlier case that might explain why it looks out of place?
+
+8. Now that you have identified the issue, try clockor2 again but with the corrected metadata. This can be found in the file nig-af2-seqs-clockor2-corrected.csv. Note the change to the evolutionary clock estimate and the R-squared value. 
+
+
+## Task 4 - Export
+
+You can export your tree in different formats. Rectangular, circular etc
+
+
+## Task 5 - Re-iterate with different trees of your data
+
+You can also compare different trees of your data e.g., changing the group variable!
+
+
