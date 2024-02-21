@@ -1,8 +1,15 @@
 ---
+title: "Alignment"
 output:
   pdf_document: default
   html_document: default
+date: "2024-02-21"
 ---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
 # Alignment
 
 # Task 1
