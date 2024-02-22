@@ -1,7 +1,15 @@
-Artic pipeline
-================
-Sandeep Kasaragod
-2024-02-01
+---
+title: "Artic pipeline"
+author: "Sandeep Kasaragod"
+date: "2024-02-22"
+output:
+  pdf_document: default
+  html_document: default
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
 
 - <a href="">1
   Bioinformatic pipeline</a>
@@ -112,6 +120,23 @@ This is not simply a copy and paste exercise! The commands you are
 instructed to run require some editing, e.g. to tell the pipeline where
 your data is. Parts of the commands with \<*some text*\> are highlighing
 sections that need your input- i.e. you need to edit the code.
+
+### 1.4.1 Using pipeline without RAGE-on-ssd
+
+Note that this tutorial has been written according to the use of the RAGE-on-SSD
+environment. If you want to run this without the SSD there are some extra steps.
+
+You need to install the tools Dorado and weeSam following instructions here:
+[Dorado](https://github.com/nanoporetech/dorado?tab=readme-ov-file)
+[weeSam](https://github.com/centre-for-virus-research/weeSAM)
+
+Create a directory called "tools" in the tutorial directory (i.e. inside RAGE-workshop-2024/4_command_line_and_phylogenetics/I-tutorial-bioinformatic_pipeline)
+of the material downloaded after the workshop.Place the Dorado and weeSam downloads in this folder. 
+
+Continue with the instructions below (skip 1.6.2) but replace command.sh with command_github.sh in section 1.8.
+
+If you continue to struggle and need extra help, please reach out via the RAGE mailing list: <rage-project@lists.cent.gla.ac.uk>
+
 
 ## 1.5 Download Artic-nf and activate the conda environment
 
