@@ -1,0 +1,3 @@
+[submodule "4_command_line_and_phylogenetics/I-tutorial-bioinformatic_pipeline/4_command_line_and_phylogenetics/I-tutorial-bioinformatic_pipeline/Artic-nf"]
+	path = 4_command_line_and_phylogenetics/I-tutorial-bioinformatic_pipeline/4_command_line_and_phylogenetics/I-tutorial-bioinformatic_pipeline/Artic-nf
+	url = https://github.com/RAGE-toolkit/Artic-nf
